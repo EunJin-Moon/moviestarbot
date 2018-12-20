@@ -13,10 +13,10 @@ from operator import itemgetter
 app = Flask(__name__)
 
 
-slack_client_id = "507694811781.507391689443"
-slack_client_secret = "507694811781.507391689443"
-slack_verification = "ObdFnZMa9BeP4XLVSHZppmic"
-# sc = SlackClient(slack_token)
+# slack_client_id = "507694811781.507391689443"
+# slack_client_secret = "507694811781.507391689443"
+# slack_verification = "ObdFnZMa9BeP4XLVSHZppmic"
+# # sc = SlackClient(slack_token)
 
 
 # 크롤링 함수 구현하기
