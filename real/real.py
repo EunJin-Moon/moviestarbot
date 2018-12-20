@@ -12,11 +12,11 @@ from operator import itemgetter
 
 app = Flask(__name__)
 
-slack_token = "xoxb-507694811781-507328919956-yDk0zIEhqXHwWaiAKWP7ZAQc"
+
 slack_client_id = "507694811781.507391689443"
 slack_client_secret = "507694811781.507391689443"
 slack_verification = "ObdFnZMa9BeP4XLVSHZppmic"
-sc = SlackClient(slack_token)
+# sc = SlackClient(slack_token)
 
 
 # 크롤링 함수 구현하기
